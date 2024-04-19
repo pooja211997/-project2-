@@ -1,0 +1,5 @@
+===========Bank ============
+1|IT Expert Bank|847 350 9034
+===========Employee[s] ============
+100|tom|tom@abc.com40000.0
+200|mike|mike@abc.com42.0
